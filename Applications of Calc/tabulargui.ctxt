@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=tabulargui()
+comment2.params=x\ y
+comment2.target=java.lang.String\ powerRule(double,\ double)
+comment3.params=s
+comment3.target=java.lang.String\ TrigSw(java.lang.String)
+comment4.params=s\ y
+comment4.target=java.lang.String\ TrigSC(java.lang.String,\ double)
+comment5.params=y
+comment5.target=java.lang.String\ chainR(double)
+comment6.params=s
+comment6.target=void\ p(java.lang.String)
+numComments=7

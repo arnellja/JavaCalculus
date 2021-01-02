@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ b\ c\ e
+comment1.target=double\ au(double,\ double,\ double,\ double)
+comment2.params=b\ c
+comment2.target=double\ powerRule(double,\ double)
+comment3.params=x
+comment3.target=double\ getPower(double)
+comment4.params=s
+comment4.target=void\ p(java.lang.String)
+comment4.text=public\ static\ double\ uPlusv()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ uMinusv()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ uTimesv()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ uDividedv()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ a()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ uTon()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ x()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ 1;\r\n\ \ \ \ }\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ ln()\r\n\ \ \ \ {}\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ double\ eTou()\r\n{}
+numComments=5
